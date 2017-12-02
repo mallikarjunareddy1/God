@@ -20,13 +20,17 @@
 # Registers:
 
 # File marks:
-'0  4  6  ~/god.txt
-'1  2  10  ~/god2.txt
-'2  2  5  ~/god1.txt
-'3  2  10  ~/god.txt
-'4  11  29  /etc/hosts
+'0  2  23  ~/god3.txt
+'1  1  22  ~/god3.txt
+'2  4  6  ~/god.txt
+'3  2  10  ~/god2.txt
+'4  2  5  ~/god1.txt
+'5  2  10  ~/god.txt
+'6  11  29  /etc/hosts
 
 # Jumplist (newest first):
+-'  2  23  ~/god3.txt
+-'  1  0  ~/god3.txt
 -'  4  6  ~/god.txt
 -'  1  0  ~/god.txt
 -'  2  10  ~/god2.txt
@@ -90,8 +94,48 @@
 -'  11  29  /etc/hosts
 -'  9  0  /etc/hosts
 -'  1  0  /etc/hosts
+-'  4  6  ~/god.txt
+-'  1  0  ~/god.txt
+-'  2  10  ~/god2.txt
+-'  1  0  ~/god2.txt
+-'  2  5  ~/god1.txt
+-'  1  0  ~/god1.txt
+-'  2  10  ~/god.txt
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  2  5  ~/god1.txt
+-'  1  0  ~/god1.txt
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
+-'  11  29  /etc/hosts
+-'  9  0  /etc/hosts
+-'  1  0  /etc/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/god3.txt
+	"	2	23
+	^	2	24
+	.	2	23
+	+	1	23
+	+	2	23
 
 > ~/god.txt
 	"	4	6
