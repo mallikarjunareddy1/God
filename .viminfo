@@ -20,18 +20,19 @@
 # Registers:
 
 # File marks:
-'0  2  4  ~/revert
-'1  1  5  ~/revert
-'2  1  14  ~/god5.txt
-'3  1  13  ~/god4.txt
-'4  2  23  ~/god3.txt
-'5  1  22  ~/god3.txt
-'6  4  6  ~/god.txt
-'7  2  10  ~/god2.txt
-'8  2  5  ~/god1.txt
-'9  2  10  ~/god.txt
+'0  1  2  ~/Arjun
+'1  2  4  ~/revert
+'2  1  5  ~/revert
+'3  1  14  ~/god5.txt
+'4  1  13  ~/god4.txt
+'5  2  23  ~/god3.txt
+'6  1  22  ~/god3.txt
+'7  4  6  ~/god.txt
+'8  2  10  ~/god2.txt
+'9  2  5  ~/god1.txt
 
 # Jumplist (newest first):
+-'  1  2  ~/Arjun
 -'  2  4  ~/revert
 -'  1  0  ~/revert
 -'  1  14  ~/god5.txt
@@ -128,10 +129,14 @@
 -'  11  29  /etc/hosts
 -'  9  0  /etc/hosts
 -'  1  0  /etc/hosts
--'  11  29  /etc/hosts
--'  9  0  /etc/hosts
 
 # History of marks within files (newest to oldest):
+
+> ~/Arjun
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/revert
 	"	2	4
